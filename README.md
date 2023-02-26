@@ -41,3 +41,17 @@ Shorter Syntax:
 
 Note: You can see the result in the top third picture's    
 
+# Line Style
+You can choose any of these styles:
+
+    Style                   Or
+
+    'solid' (default)       '-'
+
+    'dotted'                ':'
+
+    'dashed'                '--'
+
+    'dashdot'               '-.'
+
+    'None'                  "or''
